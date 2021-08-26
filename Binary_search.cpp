@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// Time Complexity is 0(log n)
 int binary_search(int a[],int n,int key)
 {
     int s=0,e=n-1;
